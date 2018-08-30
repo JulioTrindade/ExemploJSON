@@ -2,21 +2,39 @@
     "bands": [
         {
             "id": 1,
-            "name": "Tesseract",
-            "email": "tesseract@gmail.com",
-            "phone": "99669-9966",
-            "description": "TesseracT has arrived at the highly coveted destination of true creative freedom through bold artistic risk-taking, which has resulted in a loyal audience who are not only comfortable with being challenged by each successive release, but demand to be. A new TesseracT recording is a gift to unwrap, a puzzle to solve, an adventure that beckons.",
-            "web_site": "http://tesseractband.co.uk/",
-            "picture": "http://www.oneokrock.com/wp-content/uploads/2016/05/7c3a5f0fa95101d2d2923e447e1b9abf.jpg"
+            "nome": "Vinícius de Almeida Silva",
+            "email": "vinicius456as@hotmail.com",
+            "telefone": "99675-1164",
+            "CPF": "09623268440",
+            "matricula": "20180115924",
+            "foto": ""
         },
         {
             "id": 2,
-            "name": "ONE OK ROCK",
-            "email": "oneokrock@gmail.com",
-            "phone": "84848-9989",
-            "description": "ONE OK ROCK is a Japanese rock band formed in 2005 and is represented by Amuse, Inc. It performs approximately 100 live concerts every year.",
-            "web_site": "http://www.oneokrock.com/",
-            "picture": "http://www.oneokrock.com/wp-content/uploads/2016/05/7c3a5f0fa95101d2d2923e447e1b9abf.jpg"
+            "nome": "Victoria Silva de Araújo",
+            "email": "victoria.araujo_@hotmail.com",
+            "telefone": "996375383",
+            "CPF": "11529065429",
+            "matricula": "20180047056",
+            "foto": ""
+        }
+        {
+            "id": 3,
+            "nome": "Dilana dos Santos Guimarães",
+            "email": "diilanasantos22@gmail.com",
+            "telefone": "998983242",
+            "CPF": "09939462409",
+            "matricula": "20180046030",
+            "foto": ""
+        }
+        {
+            "id": 4,
+            "nome": "Júlio Cesar Trindade de Azevedo",
+            "email": "julio.trindade92@gmail.com",
+            "telefone": "988332732",
+            "CPF": "08173641455",
+            "matricula": "20180049810",
+            "foto": ""
         }
     ]
 }
